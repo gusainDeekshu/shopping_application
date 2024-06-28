@@ -1,0 +1,25 @@
+REST API - JSON
+
+
+GET /api/users - html document render -> this is done
+GET /api/users - List all users as json -> this is done
+
+GET /api/users/1 - Get the user with id 1 -> this is done
+GET /api/users/2 - Get the user with id 2 -> this is done
+
+
+dynamic Patch perameters
+GET /api/users/:id
+:id -> Dynamic| variable -> this is done  
+
+
+POST /user - Create new 
+
+
+Patch /api/users/1 - edit the user with ID 1
+
+Delete /api/users/1 - Delete the users with id 1
+
+
+
+middleware function req res ko end ya age bhi leja sakta hai
